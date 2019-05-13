@@ -23,3 +23,10 @@ Now that we have configured the Arduino Uno with the proper software, we are goi
 2) Go to Tools > Boards > Boards Manager. Search for "Sanguino", then install the latest version. 
 3) Under Tools, select Boards > Sanguino. Then select Processor > ATmega1284 or ATmega1284P (16 MHz). Finally, select Programmer > Arduino as ISP. 
 4) Select Tools > Burn Bootloader. If the process is successful you will get no errors.
+
+## Flashing Marlin
+
+Marlin is the software that runs our 3D Printer. Luckily, we have provided a pre-compiled version for you so you don't have to mess with the code - just upload! 
+
+1) Plug your Ender-3 into your USB port.
+2) 

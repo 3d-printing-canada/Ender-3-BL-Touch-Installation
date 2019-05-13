@@ -3,7 +3,8 @@ Instructions and Firmware For The Ender 3 BL Touch Installation
 
 ## General Notes
 
-- For V3.0 BL touches, the C7 capacitor must be removed from the motherboard. 
+- For V3.0 BL touches, the C7 capacitor must be removed from the motherboard. Please view the "Ender-3 C7 Capacitor" picture uploaded above. The capacitor in question is circled - the yellow one closest to the Z endstop plug. It is labelled "C7" on the board. It is easy to remove - use a pair of pliers and grip the capacitor, then twist gently. It will break off with no damage. 
+- When you complete your installation and are ready to test for the first time, try homing the printer and touching the BL touch in mid-air. This will ensure that your connections are working if doing so stops the Z axis from going down. The BL touch should retract, and the gantry should go up and then try to go down again. 
 
 
 ## Flashing The Bootloader 

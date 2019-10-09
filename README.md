@@ -13,7 +13,10 @@ Instructions and Firmware For The Ender 3 BL Touch Installation
 
 ## Flashing The Bootloader 
 
-Please follow these steps to flash the bootloader of the Arduino Uno: 
+IF YOU HAVE A CREALITY BL TOUCH KIT, please follow the guide at this link to use your USB flasher to upload the bootloader: 
+https://www.reddit.com/r/ender3/comments/cfmbdy/howto_installing_a_bootloader_to_an_ender_3_pro/
+
+Please follow these steps to flash the bootloader using an Arduino Uno: 
 
 ### Configuring the Arduino 
 1) Download and install the Arduino IDE from: https://www.arduino.cc/en/Main/Software
